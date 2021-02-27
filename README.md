@@ -17,7 +17,7 @@ const App = () => {
   return (
     <div className='App'>
       <MaterialiosProvider>
-        <Home />
+        <h1>App</h1>
       </MaterialiosProvider>
     </div>
   )
