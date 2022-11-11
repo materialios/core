@@ -1,6 +1,6 @@
 {
   "name": "@materialios/core",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "ReactJs core for @materialios",
   "private": false,
   "main": "lib/index.js",
@@ -40,13 +40,13 @@
     ]
   },
   "peerDependencies": {
-    "@materialios/contexts": ">=0.1.12",
-    "react": ">=16.8.0",
-    "react-router-dom": ">=5.0.0"
+    "@materialios/contexts": ">=0.1.15",
+    "react": "^18.2.0",
+    "react-router-dom": "^6.4.3"
   },
   "devDependencies": {
-    "@babel/cli": "^7.13.0",
-    "@babel/core": "^7.13.1",
-    "@babel/preset-react": "^7.12.13"
+    "@babel/cli": "^7.19.3",
+    "@babel/core": "^7.20.2",
+    "@babel/preset-react": "^7.18.6"
   }
 }
